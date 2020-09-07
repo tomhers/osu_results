@@ -1,0 +1,2 @@
+# OSU MPI Init Test
+nprocs: 27, min: 132 ms, max: 137 ms, avg: 134 ms
