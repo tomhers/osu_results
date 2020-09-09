@@ -1,0 +1,241 @@
+rm: cannot remove ‘hpccoutf.txt’: No such file or directory
+Working on ,32,1
+# OSU MPI Init Test v5.6.1
+nprocs: 32, min: 1351 ms, max: 1351 ms, avg: 1351 ms
+Working on ,32,2
+# OSU MPI Init Test v5.6.1
+nprocs: 32, min: 370 ms, max: 406 ms, avg: 389 ms
+Working on ,32,3
+# OSU MPI Init Test v5.6.1
+nprocs: 32, min: 388 ms, max: 425 ms, avg: 406 ms
+Working on ,32,4
+# OSU MPI Init Test v5.6.1
+nprocs: 32, min: 388 ms, max: 421 ms, avg: 403 ms
+Working on ,32,5
+# OSU MPI Init Test v5.6.1
+nprocs: 32, min: 417 ms, max: 459 ms, avg: 438 ms
+Working on ,64,1
+# OSU MPI Init Test v5.6.1
+nprocs: 64, min: 542 ms, max: 598 ms, avg: 573 ms
+Working on ,64,2
+# OSU MPI Init Test v5.6.1
+nprocs: 64, min: 392 ms, max: 434 ms, avg: 413 ms
+Working on ,64,3
+# OSU MPI Init Test v5.6.1
+nprocs: 64, min: 457 ms, max: 503 ms, avg: 481 ms
+Working on ,64,4
+# OSU MPI Init Test v5.6.1
+nprocs: 64, min: 377 ms, max: 425 ms, avg: 404 ms
+Working on ,64,5
+# OSU MPI Init Test v5.6.1
+nprocs: 64, min: 411 ms, max: 469 ms, avg: 444 ms
+Working on ,96,1
+# OSU MPI Init Test v5.6.1
+nprocs: 96, min: 530 ms, max: 578 ms, avg: 552 ms
+Working on ,96,2
+# OSU MPI Init Test v5.6.1
+nprocs: 96, min: 430 ms, max: 488 ms, avg: 461 ms
+Working on ,96,3
+# OSU MPI Init Test v5.6.1
+nprocs: 96, min: 406 ms, max: 451 ms, avg: 427 ms
+Working on ,96,4
+# OSU MPI Init Test v5.6.1
+nprocs: 96, min: 436 ms, max: 487 ms, avg: 461 ms
+Working on ,96,5
+# OSU MPI Init Test v5.6.1
+nprocs: 96, min: 416 ms, max: 464 ms, avg: 440 ms
+Working on ,128,1
+# OSU MPI Init Test v5.6.1
+nprocs: 128, min: 565 ms, max: 624 ms, avg: 595 ms
+Working on ,128,2
+# OSU MPI Init Test v5.6.1
+nprocs: 128, min: 467 ms, max: 513 ms, avg: 488 ms
+Working on ,128,3
+# OSU MPI Init Test v5.6.1
+nprocs: 128, min: 488 ms, max: 550 ms, avg: 520 ms
+Working on ,128,4
+# OSU MPI Init Test v5.6.1
+nprocs: 128, min: 456 ms, max: 512 ms, avg: 483 ms
+Working on ,128,5
+# OSU MPI Init Test v5.6.1
+nprocs: 128, min: 511 ms, max: 570 ms, avg: 542 ms
+Working on ,160,1
+# OSU MPI Init Test v5.6.1
+nprocs: 160, min: 565 ms, max: 619 ms, avg: 592 ms
+Working on ,160,2
+# OSU MPI Init Test v5.6.1
+nprocs: 160, min: 503 ms, max: 552 ms, avg: 524 ms
+Working on ,160,3
+# OSU MPI Init Test v5.6.1
+nprocs: 160, min: 495 ms, max: 550 ms, avg: 523 ms
+Working on ,160,4
+# OSU MPI Init Test v5.6.1
+nprocs: 160, min: 462 ms, max: 519 ms, avg: 491 ms
+Working on ,160,5
+# OSU MPI Init Test v5.6.1
+nprocs: 160, min: 451 ms, max: 501 ms, avg: 474 ms
+Working on ,192,1
+# OSU MPI Init Test v5.6.1
+nprocs: 192, min: 591 ms, max: 643 ms, avg: 615 ms
+Working on ,192,2
+# OSU MPI Init Test v5.6.1
+nprocs: 192, min: 433 ms, max: 484 ms, avg: 455 ms
+Working on ,192,3
+# OSU MPI Init Test v5.6.1
+nprocs: 192, min: 515 ms, max: 568 ms, avg: 539 ms
+Working on ,192,4
+# OSU MPI Init Test v5.6.1
+nprocs: 192, min: 429 ms, max: 482 ms, avg: 453 ms
+Working on ,192,5
+# OSU MPI Init Test v5.6.1
+nprocs: 192, min: 457 ms, max: 510 ms, avg: 480 ms
+Working on ,224,1
+# OSU MPI Init Test v5.6.1
+nprocs: 224, min: 573 ms, max: 634 ms, avg: 606 ms
+Working on ,224,2
+# OSU MPI Init Test v5.6.1
+nprocs: 224, min: 518 ms, max: 575 ms, avg: 545 ms
+Working on ,224,3
+# OSU MPI Init Test v5.6.1
+nprocs: 224, min: 470 ms, max: 529 ms, avg: 499 ms
+Working on ,224,4
+# OSU MPI Init Test v5.6.1
+nprocs: 224, min: 424 ms, max: 479 ms, avg: 449 ms
+Working on ,224,5
+# OSU MPI Init Test v5.6.1
+nprocs: 224, min: 492 ms, max: 548 ms, avg: 520 ms
+Working on ,256,1
+# OSU MPI Init Test v5.6.1
+nprocs: 256, min: 570 ms, max: 634 ms, avg: 604 ms
+Working on ,256,2
+# OSU MPI Init Test v5.6.1
+nprocs: 256, min: 390 ms, max: 441 ms, avg: 413 ms
+Working on ,256,3
+# OSU MPI Init Test v5.6.1
+nprocs: 256, min: 456 ms, max: 527 ms, avg: 496 ms
+Working on ,256,4
+# OSU MPI Init Test v5.6.1
+nprocs: 256, min: 414 ms, max: 469 ms, avg: 440 ms
+Working on ,256,5
+# OSU MPI Init Test v5.6.1
+nprocs: 256, min: 434 ms, max: 490 ms, avg: 460 ms
+Working on ,288,1
+# OSU MPI Init Test v5.6.1
+nprocs: 288, min: 556 ms, max: 619 ms, avg: 587 ms
+Working on ,288,2
+# OSU MPI Init Test v5.6.1
+nprocs: 288, min: 492 ms, max: 551 ms, avg: 520 ms
+Working on ,288,3
+# OSU MPI Init Test v5.6.1
+nprocs: 288, min: 474 ms, max: 526 ms, avg: 499 ms
+Working on ,288,4
+# OSU MPI Init Test v5.6.1
+nprocs: 288, min: 431 ms, max: 485 ms, avg: 453 ms
+Working on ,288,5
+# OSU MPI Init Test v5.6.1
+nprocs: 288, min: 441 ms, max: 507 ms, avg: 476 ms
+Working on ,320,1
+# OSU MPI Init Test v5.6.1
+nprocs: 320, min: 539 ms, max: 602 ms, avg: 570 ms
+Working on ,320,2
+# OSU MPI Init Test v5.6.1
+nprocs: 320, min: 466 ms, max: 525 ms, avg: 493 ms
+Working on ,320,3
+# OSU MPI Init Test v5.6.1
+nprocs: 320, min: 472 ms, max: 536 ms, avg: 502 ms
+Working on ,320,4
+# OSU MPI Init Test v5.6.1
+nprocs: 320, min: 442 ms, max: 494 ms, avg: 466 ms
+Working on ,320,5
+# OSU MPI Init Test v5.6.1
+nprocs: 320, min: 432 ms, max: 505 ms, avg: 472 ms
+Working on ,352,1
+# OSU MPI Init Test v5.6.1
+nprocs: 352, min: 599 ms, max: 657 ms, avg: 625 ms
+Working on ,352,2
+# OSU MPI Init Test v5.6.1
+nprocs: 352, min: 414 ms, max: 473 ms, avg: 440 ms
+Working on ,352,3
+# OSU MPI Init Test v5.6.1
+nprocs: 352, min: 448 ms, max: 506 ms, avg: 473 ms
+Working on ,352,4
+# OSU MPI Init Test v5.6.1
+nprocs: 352, min: 429 ms, max: 487 ms, avg: 454 ms
+Working on ,352,5
+# OSU MPI Init Test v5.6.1
+nprocs: 352, min: 414 ms, max: 468 ms, avg: 437 ms
+Working on ,384,1
+# OSU MPI Init Test v5.6.1
+nprocs: 384, min: 550 ms, max: 623 ms, avg: 587 ms
+Working on ,384,2
+# OSU MPI Init Test v5.6.1
+nprocs: 384, min: 465 ms, max: 527 ms, avg: 495 ms
+Working on ,384,3
+# OSU MPI Init Test v5.6.1
+nprocs: 384, min: 506 ms, max: 564 ms, avg: 531 ms
+Working on ,384,4
+# OSU MPI Init Test v5.6.1
+nprocs: 384, min: 424 ms, max: 493 ms, avg: 458 ms
+Working on ,384,5
+# OSU MPI Init Test v5.6.1
+nprocs: 384, min: 501 ms, max: 560 ms, avg: 527 ms
+Working on ,416,1
+# OSU MPI Init Test v5.6.1
+nprocs: 416, min: 600 ms, max: 666 ms, avg: 631 ms
+Working on ,416,2
+# OSU MPI Init Test v5.6.1
+nprocs: 416, min: 561 ms, max: 629 ms, avg: 593 ms
+Working on ,416,3
+# OSU MPI Init Test v5.6.1
+nprocs: 416, min: 478 ms, max: 539 ms, avg: 505 ms
+Working on ,416,4
+# OSU MPI Init Test v5.6.1
+nprocs: 416, min: 479 ms, max: 549 ms, avg: 514 ms
+Working on ,416,5
+# OSU MPI Init Test v5.6.1
+nprocs: 416, min: 486 ms, max: 548 ms, avg: 514 ms
+Working on ,448,1
+# OSU MPI Init Test v5.6.1
+nprocs: 448, min: 594 ms, max: 655 ms, avg: 622 ms
+Working on ,448,2
+# OSU MPI Init Test v5.6.1
+nprocs: 448, min: 485 ms, max: 548 ms, avg: 515 ms
+Working on ,448,3
+# OSU MPI Init Test v5.6.1
+nprocs: 448, min: 501 ms, max: 560 ms, avg: 527 ms
+Working on ,448,4
+# OSU MPI Init Test v5.6.1
+nprocs: 448, min: 501 ms, max: 568 ms, avg: 532 ms
+Working on ,448,5
+# OSU MPI Init Test v5.6.1
+nprocs: 448, min: 501 ms, max: 567 ms, avg: 534 ms
+Working on ,480,1
+# OSU MPI Init Test v5.6.1
+nprocs: 480, min: 572 ms, max: 638 ms, avg: 603 ms
+Working on ,480,2
+# OSU MPI Init Test v5.6.1
+nprocs: 480, min: 526 ms, max: 588 ms, avg: 553 ms
+Working on ,480,3
+# OSU MPI Init Test v5.6.1
+nprocs: 480, min: 507 ms, max: 572 ms, avg: 536 ms
+Working on ,480,4
+# OSU MPI Init Test v5.6.1
+nprocs: 480, min: 424 ms, max: 485 ms, avg: 451 ms
+Working on ,480,5
+# OSU MPI Init Test v5.6.1
+nprocs: 480, min: 485 ms, max: 546 ms, avg: 510 ms
+Working on ,512,1
+# OSU MPI Init Test v5.6.1
+nprocs: 512, min: 572 ms, max: 640 ms, avg: 604 ms
+Working on ,512,2
+# OSU MPI Init Test v5.6.1
+nprocs: 512, min: 485 ms, max: 546 ms, avg: 510 ms
+Working on ,512,3
+# OSU MPI Init Test v5.6.1
+nprocs: 512, min: 526 ms, max: 588 ms, avg: 554 ms
+Working on ,512,4
+# OSU MPI Init Test v5.6.1
+nprocs: 512, min: 502 ms, max: 568 ms, avg: 532 ms
+Working on ,512,5
+# OSU MPI Init Test v5.6.1
+nprocs: 512, min: 439 ms, max: 508 ms, avg: 472 ms
